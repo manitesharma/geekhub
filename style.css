@@ -213,8 +213,8 @@ body {
         min-height: 700px;
     }
 }
-.geek-details {
-        margin-bottom: 20px;
+.geek-details.margin100 {
+        margin-bottom: 100px;
     }
 @media only screen and (max-width: 767px) {
     .manager-profile {
